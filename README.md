@@ -1,5 +1,8 @@
 # Shopping-analysis
 
+![](Shopping.png)
+
+
 ## Introduction
 The report provides an analysis of purchasing behavior for Company R based on data collected from various states in the U.S. The dataset captures consumer preferences across different age groups, gender, product categories, and locations. It highlights the top purchasing states, most popular product categories, and spending trends by gender. Additionally, the report examines customer satisfaction through product ratings.
 
